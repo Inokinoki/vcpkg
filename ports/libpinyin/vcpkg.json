@@ -1,0 +1,9 @@
+{
+  "name": "libpinyin",
+  "version-string": "2.6.0",
+  "homepage": "https://github.com/libpinyin/libpinyin",
+  "description": "Library to deal with pinyin.",
+  "dependencies": [
+    "glib"
+  ]
+}
